@@ -1,4 +1,4 @@
-# 🎯 Roblox Link Sniper
+# Roblox Link Sniper
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
@@ -13,7 +13,7 @@ a self discord bot that monitors a Discord channel for messages containing speci
 
 ## Features
 
--  watches for custom keywords like `Glitched`, `Dreamspace`, `Cyberspace` and more
+-  watches for custom keywords like `Glitched`, `Dreamspace`, `Cyberspace` and more (egzample usage is SOL game)
 -  converts Roblox web URLs to `roblox://` deeplinks and opens them automatically
 -  skip messages containing certain words even if they match
 -  prevents accidental multi-launches
